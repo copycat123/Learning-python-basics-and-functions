@@ -9,7 +9,3 @@ else:
     if age <= 6:
         print('You are older to join us {}!'.format(age))
 print('Good luck bro')
-
-
-"my hero"
-'my life'
