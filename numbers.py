@@ -7,5 +7,3 @@ elif colddrink > 30:
 else:
     print('its cold')
 print('done')
-
-'mani'
